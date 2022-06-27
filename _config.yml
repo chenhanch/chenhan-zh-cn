@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "陈涵"
-description              : "TODO. "
+description              : "就读于深圳大学，主要研究方向包括深度伪造检测和隐写分析。"
 repository               : "chenhanch.github.io"
 github                   : "chenhanch"
 google_scholar_stats_use_cdn : true
@@ -28,8 +28,9 @@ author:
   location         : "深圳, 中国"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com.hk/citations?user=gjRK_isAAAAJ&hl=zh-CN"
   email            : "hanchensz97@gmail.com"
+  kaggle           : "han2016130205"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "chenhanch"
   google_plus      :
   keybase          :
   instagram        :
