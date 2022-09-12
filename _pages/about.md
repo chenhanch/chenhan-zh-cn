@@ -20,6 +20,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 
+* 2022.09：一篇文章被IEEE TCSVT录用.
 * 2022.06：一篇文章被ICIP 2022录用.
 * 2022.06：获得DFGC2022竞赛的检测赛道冠军.
 * 2022.03：一篇文章被ICME 2022录用.
@@ -30,12 +31,13 @@ redirect_from:
 
 \* 同等贡献, # 通信作者.
 
-1. Generalizable DeepFake Face Forgery Detection with Semi-Supervised Learning and Knowledge Distillation <br/>Yuzhen Lin\*, **<u>Han Chen</u>\***, Bin Li, Junqiang Wu. IEEE International Conference on Image Processing (ICIP), 2022, **CCF C**, 共同一作.
-2. Source-ID-Tracker: Source Face Identity Protection in Face Swapping <br/>Yuzhen Lin\*, **<u>Han Chen</u>\***, Emanuele Maiorana, Patrizio Campisi, Bin Li. IEEE International Conference on Multimedia and Expo (ICME), 2022, **CCF B**, 共同一作.
-3. [DFGC 2021: A DeepFake Game Competition](https://ieeexplore.ieee.org/abstract/document/9484387) <br/>Peng B, Fan H, Wang W, et al. International Joint Conference on Biometrics (IJCB), 2021, **CCF C**, 参赛冠军队伍合著.
-2. [Ensemble Deep Learning Features for Real-World Image Steganalysis](https://www.koreascience.or.kr/article/JAKO202009135419236.page) <br/>Ziling Zhou, Shunquan Tan, Jishen Zeng, **<u>Han Chen</u>**, Shaobin Hong. KSII Transactions on Internet and Information Systems (TIIS), 2020, **中科院升级版大类四区**.
-3. [Can Forensic Detectors Identify GAN Generated Images?](https://ieeexplore.ieee.org/abstract/document/8659461/) <br/>Haodong Li, **<u>Han Chen</u>**, Bin Li, Shunquan Tan. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2018.
-4. [An Inception-Based Data-Driven Ensemble Approach to Camera Model Identification](https://ieeexplore.ieee.org/abstract/document/8630774/) <br/>Anselmo Ferreira, **<u>Han Chen</u>**, Bin Li, Jiwu Huang. IEEE International Workshop on Information Forensics and Security (WIFS), 2018.
+1. Learning Features of Intra-consistency and Inter-diversity: Keys towards Generalizable Deepfake Detection <br/>**<u>Han Chen</u>\***, Yuzhen Lin\*, Bin Li, Shunquan Tan. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), 2022, **中科院升级版大类一区**, **CCF B**, 共同一作.
+2. Generalizable DeepFake Face Forgery Detection with Semi-Supervised Learning and Knowledge Distillation <br/>Yuzhen Lin\*, **<u>Han Chen</u>\***, Bin Li, Junqiang Wu. IEEE International Conference on Image Processing (ICIP), 2022, **CCF C**, 共同一作.
+3. [Source-ID-Tracker: Source Face Identity Protection in Face Swapping](https://ieeexplore.ieee.org/abstract/document/9859600/) <br/>Yuzhen Lin\*, **<u>Han Chen</u>\***, Emanuele Maiorana, Patrizio Campisi, Bin Li. IEEE International Conference on Multimedia and Expo (ICME), 2022, **CCF B**, 共同一作.
+4. [DFGC 2021: A DeepFake Game Competition](https://ieeexplore.ieee.org/abstract/document/9484387) <br/>Peng B, Fan H, Wang W, et al. International Joint Conference on Biometrics (IJCB), 2021, **CCF C**, 参赛冠军队伍合著.
+5. [Ensemble Deep Learning Features for Real-World Image Steganalysis](https://www.koreascience.or.kr/article/JAKO202009135419236.page) <br/>Ziling Zhou, Shunquan Tan, Jishen Zeng, **<u>Han Chen</u>**, Shaobin Hong. KSII Transactions on Internet and Information Systems (TIIS), 2020, **中科院升级版大类四区**.
+6. [Can Forensic Detectors Identify GAN Generated Images?](https://ieeexplore.ieee.org/abstract/document/8659461/) <br/>Haodong Li, **<u>Han Chen</u>**, Bin Li, Shunquan Tan. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2018.
+7. [An Inception-Based Data-Driven Ensemble Approach to Camera Model Identification](https://ieeexplore.ieee.org/abstract/document/8630774/) <br/>Anselmo Ferreira, **<u>Han Chen</u>**, Bin Li, Jiwu Huang. IEEE International Workshop on Information Forensics and Security (WIFS), 2018.
 
 
 
@@ -51,6 +53,7 @@ redirect_from:
 * 2019.10.鹏城奖学金 (本科) (前1%).
 * 2019.09. [2019 高校计算机大赛—大数据挑战赛](https://www.heywhale.com/home/competition/5cc51043f71088002c5b8840/content). 排名3/430. 全国一等奖. [代码](https://github.com/ShusenTang/BDC2019)已开源.
 * 2019.09. 中国大学生计算机设计大赛. 全国二等奖.
+* 2019.05. 美国大学生数学建模竞赛. H奖.
 
 # 📖 教育背景
 
@@ -64,6 +67,7 @@ redirect_from:
 <span class='anchor' id='-internships'></span>
 
 * 2021.08 – 2021.11, 阿里巴巴-CRO 线-安全部, 基础安全实习 .
+* 2021.07 – 2022.07, 深圳大学文华班, 数字图像处理课程助教.
 * 2019.09 – 2019.11, 香港中文大学深圳研究院, 数字视觉娱乐实验室, 算法实习生.
 
 <br/>
