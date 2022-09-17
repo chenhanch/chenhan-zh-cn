@@ -20,6 +20,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 
+* 2022.09：一篇文章被ACCV 2022录用.
 * 2022.09：一篇文章被IEEE TCSVT录用.
 * 2022.06：一篇文章被ICIP 2022录用.
 * 2022.06：获得DFGC2022竞赛的检测赛道冠军.
