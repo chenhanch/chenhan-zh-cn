@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我于2020年获得深圳大学电子与信息工程学士学位，目前硕士研究生就读于深圳大学电子与信息工程学院，专业为信息与通信工程，当前研二下学期。我的导师是[李斌](http://media-sec.szu.edu.cn/view/libin105.html)教授，现在于[深圳市媒体信息内容安全重点实验室](http://media-sec.szu.edu.cn/)学习。
+我于2020年获得深圳大学电子与信息工程学士学位，目前硕士研究生就读于深圳大学电子与信息工程学院，专业为信息与通信工程，当前研三上学期。我的导师是[李斌](http://media-sec.szu.edu.cn/view/libin105.html)教授，现在于[深圳市媒体信息内容安全重点实验室](http://media-sec.szu.edu.cn/)学习。
 
 我的研究兴趣包括深度伪造取证、多媒体取证和隐写分析，目前已经发表了一些会议和期刊论文<a href='https://scholar.google.com.hk/citations?user=gjRK_isAAAAJ&hl'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/chenhanch/chenhanch.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations">。
 
