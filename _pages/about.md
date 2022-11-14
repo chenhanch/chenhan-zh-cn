@@ -20,6 +20,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 
+* 2022.11：一篇文章被Pattern Recognition录用.
 * 2022.09：一篇文章被ACCV 2022录用.
 * 2022.09：一篇文章被IEEE TCSVT录用.
 * 2022.06：一篇文章被ICIP 2022录用.
@@ -32,13 +33,15 @@ redirect_from:
 
 \* 同等贡献, # 通信作者.
 
-1. Learning Features of Intra-consistency and Inter-diversity: Keys towards Generalizable Deepfake Detection <br/>**<u>Han Chen</u>\***, Yuzhen Lin\*, Bin Li, Shunquan Tan. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), 2022, **中科院升级版大类一区**, **CCF B**, 共同一作.
-2. Generalizable DeepFake Face Forgery Detection with Semi-Supervised Learning and Knowledge Distillation <br/>Yuzhen Lin\*, **<u>Han Chen</u>\***, Bin Li, Junqiang Wu. IEEE International Conference on Image Processing (ICIP), 2022, **CCF C**, 共同一作.
-3. [Source-ID-Tracker: Source Face Identity Protection in Face Swapping](https://ieeexplore.ieee.org/abstract/document/9859600/) <br/>Yuzhen Lin\*, **<u>Han Chen</u>\***, Emanuele Maiorana, Patrizio Campisi, Bin Li. IEEE International Conference on Multimedia and Expo (ICME), 2022, **CCF B**, 共同一作.
-4. [DFGC 2021: A DeepFake Game Competition](https://ieeexplore.ieee.org/abstract/document/9484387) <br/>Peng B, Fan H, Wang W, et al. International Joint Conference on Biometrics (IJCB), 2021, **CCF C**, 参赛冠军队伍合著.
-5. [Ensemble Deep Learning Features for Real-World Image Steganalysis](https://www.koreascience.or.kr/article/JAKO202009135419236.page) <br/>Ziling Zhou, Shunquan Tan, Jishen Zeng, **<u>Han Chen</u>**, Shaobin Hong. KSII Transactions on Internet and Information Systems (TIIS), 2020, **中科院升级版大类四区**.
-6. [Can Forensic Detectors Identify GAN Generated Images?](https://ieeexplore.ieee.org/abstract/document/8659461/) <br/>Haodong Li, **<u>Han Chen</u>**, Bin Li, Shunquan Tan. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2018.
-7. [An Inception-Based Data-Driven Ensemble Approach to Camera Model Identification](https://ieeexplore.ieee.org/abstract/document/8630774/) <br/>Anselmo Ferreira, **<u>Han Chen</u>**, Bin Li, Jiwu Huang. IEEE International Workshop on Information Forensics and Security (WIFS), 2018.
+1. Watching the BiG Artifacts: Exposing DeepFake Videos via Bi-Granularity Artifacts <br/>**<u>Han Chen</u>\***, Yuezun Li\*, Dongdong Lin, Bin Li, Junqiang Wu. Pattern Recognition (PR), 2022, **中科院升级版大类一区**, **CCF B**, 共同一作.
+2. Exposing Face Forgery Clues via Retinex-based Image Enhancement <br/>**<u>Han Chen</u>\***, Yuzhen Lin\*, Bin Li. The 16th Asian Conference on Computer Vision (ACCV), 2022, **CCF C**, 共同一作.
+3. Learning Features of Intra-consistency and Inter-diversity: Keys towards Generalizable Deepfake Detection <br/>**<u>Han Chen</u>\***, Yuzhen Lin\*, Bin Li, Shunquan Tan. IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), 2022, **中科院升级版大类一区**, **CCF B**, 共同一作.
+4. Generalizable DeepFake Face Forgery Detection with Semi-Supervised Learning and Knowledge Distillation <br/>Yuzhen Lin\*, **<u>Han Chen</u>\***, Bin Li, Junqiang Wu. IEEE International Conference on Image Processing (ICIP), 2022, **CCF C**, 共同一作.
+5. [Source-ID-Tracker: Source Face Identity Protection in Face Swapping](https://ieeexplore.ieee.org/abstract/document/9859600/) <br/>Yuzhen Lin\*, **<u>Han Chen</u>\***, Emanuele Maiorana, Patrizio Campisi, Bin Li. IEEE International Conference on Multimedia and Expo (ICME), 2022, **CCF B**, 共同一作.
+6. [DFGC 2021: A DeepFake Game Competition](https://ieeexplore.ieee.org/abstract/document/9484387) <br/>Peng B, Fan H, Wang W, et al. International Joint Conference on Biometrics (IJCB), 2021, **CCF C**, 参赛冠军队伍合著.
+7. [Ensemble Deep Learning Features for Real-World Image Steganalysis](https://www.koreascience.or.kr/article/JAKO202009135419236.page) <br/>Ziling Zhou, Shunquan Tan, Jishen Zeng, **<u>Han Chen</u>**, Shaobin Hong. KSII Transactions on Internet and Information Systems (TIIS), 2020, **中科院升级版大类四区**.
+8. [Can Forensic Detectors Identify GAN Generated Images?](https://ieeexplore.ieee.org/abstract/document/8659461/) <br/>Haodong Li, **<u>Han Chen</u>**, Bin Li, Shunquan Tan. Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC), 2018.
+9. [An Inception-Based Data-Driven Ensemble Approach to Camera Model Identification](https://ieeexplore.ieee.org/abstract/document/8630774/) <br/>Anselmo Ferreira, **<u>Han Chen</u>**, Bin Li, Jiwu Huang. IEEE International Workshop on Information Forensics and Security (WIFS), 2018.
 
 
 
